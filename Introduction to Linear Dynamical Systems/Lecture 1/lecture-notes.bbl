@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Boyd(2008)]{boyd-lds-2008}
+Stephen Boyd.
+\newblock Lecture collection | linear dynamical systems.
+\newblock
+  \url{https://www.youtube.com/watch?v=bf1264iFr-w&list=PL06960BA52D0DB32B},
+  2008.
+
+\end{thebibliography}
